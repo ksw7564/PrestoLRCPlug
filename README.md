@@ -32,7 +32,7 @@
   * 앨범아트가 존재하지 않을경우 maniaDB API 를 통해 앨범아트가 존재할 경우 출력
     * ![image](https://user-images.githubusercontent.com/42190339/49267011-be9f0180-f49b-11e8-9c5d-e6125411d69a.png)
 * 플레이어 기본 기능
-  * 0.5 간격으로 볼륨 조절 (0~1)
+  * 0.05 간격으로 볼륨 조절 (0~1)
   * 이전곡, 다음곡, 재생, 일시정지, 셔플, 반복 설정 가능
   * 가사창 플레이어에서 현재 재생중인 구간 하단에 표시
 
@@ -49,11 +49,8 @@
 
 ### Downlaod
 **해당 Presto의 플러그인 폴더에 압축을 풀어주세요.**  
-[다운로드](https://github.com/kgpyo/PrestoLRCPlugin/wiki)
+[다운로드](https://github.com/ksw7564/PrestoLRCPlugin/wiki)
 
 ### 참여자
-* [고경표](https://github.com/kgpyo)
 * [김상우](https://github.com/ksw7564)
-* [양승빈](https://github.com/xzcv1994)
-* [홍나현](https://github.com/abab0528)
 * [조영재](https://github.com/jyj94)
